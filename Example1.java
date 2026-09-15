@@ -6,13 +6,13 @@ public class Example1{
     name = "Louis";
     int age = 16;
     
-    //Ex 2.2
+    //Ex 2.2 (Data.java)
     int day = 14;
     String month;
     month = "Sepetmber";
     int year = 2026;
    
-    //Ex 2.3
+    //Ex 2.3 (Time.java)
     int hour = 14;
     int minute = 50;
     int second;
